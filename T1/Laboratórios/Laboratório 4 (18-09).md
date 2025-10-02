@@ -1,7 +1,7 @@
 * [Roteiro](https://gitlab.com/fse_fga/raspberry-pi/uart_raspberry_pi)
-* Cansei de ficar pedindo pro pessoal ficar me passando o IP (a glr só ignora) e fiz uma tabela na mão
+* Cansei de ficar pedindo pro pessoal ficar me passando o IP (a glr só ignora) e fiz uma tabela na mão com `arp -a` 
 
-| Endereço IP      | Endereço físico   | Tipo     | numero |
+| Endereço IP      | Endereço físico   | Tipo     | numero da placa |
 |------------------| :---------------: |--------- | :----: |
 | 15.0.1.2         | 76-da-2e-f1-4d-7b | dinâmico |  f  | 
 | 15.0.3.240       | f0-77-c3-29-27-28 | dinâmico |  f  |

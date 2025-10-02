@@ -1,0 +1,1 @@
+* aprender a usar o tmux para gerenciar múltiplas sessões SSH ou uma mesma sessão com múltiplas janelas;

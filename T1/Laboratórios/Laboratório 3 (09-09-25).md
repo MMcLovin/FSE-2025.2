@@ -1,12 +1,12 @@
 # Configurando a placa
 
-* **IP:** 
-* 
+* [Laboratório 1 - Configuração inicial da placa Raspberry Pi](/T1/Laboratórios/Laboratorio%201%20(02-09-25).md)
 
 ## Bibliotecas
 * **gpiozero:** A simple interface to GPIO devices with Raspberry Pi
 * **RPi.GPIO:** A module to control Raspberry Pi GPIO channels
 
+* pinos que estamos usando:
 1 - 3v3
 8 - GPIO 14
 10 - GPIO 15
